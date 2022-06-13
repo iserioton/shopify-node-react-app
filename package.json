@@ -6,7 +6,8 @@
         "build": "set BUILD_PATH=./dist&& react-scripts build",
         "eject": "react-scripts eject",
         "local": "set NODE_ENV=local&& nodemon server/index.js --watch ./server",
-        "start": "set NODE_ENV=production&& pm2 start server/index.js",
+        "start": "set NODE_ENV=local&& nodemon server/index.js --watch ./server",
+        "production": "set NODE_ENV=production&& pm2 start server/index.js",
         "start:client": "react-scripts start"
     },
     "type": "module",
