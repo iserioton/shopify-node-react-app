@@ -6,7 +6,7 @@ This is a sample app to help developers.
 SHOPIFY_API_KEY={api key}           # Your API key
 SHOPIFY_API_SECRET={api secret key} # Your API secret key
 SCOPES={scopes}                     # Your app's required scopes, comma-separated
-HOST={your app's host}              # Your app's host, without the protocol prefix
+HOST={your app host}              # Your app's host, without the protocol prefix
 ```
 
 ## Developer resources
