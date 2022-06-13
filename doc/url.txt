@@ -1,6 +1,6 @@
 1. URL
 
-Installation url: https://{{shop}}/admin/oauth/authorize?client_id={{clientid}}&scope=write_products,write_customers,write_draft_orders&grant_options[]=per-user&redirect_uri=https://9519-2401-4900-5630-5f58-9d23-8d8b-40d0-e799.ngrok.io/auth/callback/
+Installation url: https://{{shop}}/admin/oauth/authorize?client_id={{clientid}}&scope=write_products,write_customers,write_draft_orders&grant_options[]=per-user&redirect_uri=https://shopify-node-react-app.herokuapp.com/auth/callback/
 
 note: You need to config your urls in shopify app, in app whitelist,in config file, in Installation url.
 
