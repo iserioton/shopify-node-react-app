@@ -1,0 +1,14 @@
+{
+	"name": "common-utils",
+	"version": "1.0.0",
+	"description": "Common functions here",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"\"\u001b[DTEST\""
+	},
+	"keywords": [
+		"common_utils"
+	],
+	"author": "Lexa",
+	"license": "ISC"
+}
